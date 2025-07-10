@@ -176,7 +176,7 @@ font-weight: bold;
   
 }
 .buttton{
-  height: 68px;
+  height: 48px;
   width: 100px;
   border-radius: 10px;
   border: 0px;
@@ -187,7 +187,7 @@ background-color: #e0e5ec;
 font-weight: bold;
 }
 .buttton-result{
-  height: 68px;
+  height: 48px;
   width: 100px;
   border-radius: 10px;
   border: 0px;
@@ -305,7 +305,7 @@ font-weight: bold;
   justify-content: space-between;
 }
 .buttton{
-  height: 68px;
+  height: 48px;
   width: 100px;
   border-radius: 10px;
   border: 0px;
@@ -316,7 +316,7 @@ background-color: #e0e5ec;
 font-weight: bold;
 }
 .buttton-result{
-  height: 68px;
+  height: 48px;
   width: 100px;
   border-radius: 10px;
   border: 0px;
