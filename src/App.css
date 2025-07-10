@@ -9,10 +9,6 @@
 background-color: #e0e5ec  ;
 }
 .all-button-container{
-  display: flex;
-  flex-direction: column;
-  align-items: flex-end;
-  justify-content: flex-end;
 background-color: #e0e5ec  ;
 height: 90vh;
   width: 89%;
