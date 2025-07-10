@@ -9,6 +9,10 @@
 background-color: #e0e5ec  ;
 }
 .all-button-container{
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-end;
 background-color: #e0e5ec  ;
 height: 90vh;
   width: 89%;
@@ -48,7 +52,7 @@ font-weight: bold;
 }
 .buttton{
   height: 48px;
-  width: 90px;
+  width: 100px;
   border-radius: 10px;
   border: 0px;
   outline: none;
@@ -58,7 +62,7 @@ background-color: #e0e5ec;
 font-weight: bold;
 }
 .buttton-result{
-  height: 68px;
+  height: 48px;
   width: 100px;
   border-radius: 10px;
   border: 0px;
@@ -224,7 +228,7 @@ font-size: 20px;
   border-radius: 12px;
   padding: 15px;
   width: 90%;
-  height: 70%;
+  height: 50%;
   margin-top: 20px;
   overflow-y: auto;
   scrollbar-width: none;
